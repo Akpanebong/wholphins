@@ -1,1 +1,1 @@
-web: gunicorn wholphinplus.wsgi --log- file -
+web: gunicorn wholphinplus.wsgi --log-file -
